@@ -1,0 +1,21 @@
+button.remove-item {
+    background: #d00000;
+}   
+#gzseo-comments-repeater .repeater-container {
+    margin-top: 10px;
+}
+.repeater-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.comment-text {
+    width: 100%;
+    height: 80px;
+    margin-bottom: 5px;
+}
+.add-replace-text,
+.remove-item {
+    margin-right: 5px;
+}
