@@ -1,0 +1,10 @@
+.gzseo_table{
+    width:100%; 
+    border-collapse:collapse;
+}
+table.gzseo_table * {
+    border: 0;
+}
+table.gzseo_table  {
+    border-radius: 10px;
+}
